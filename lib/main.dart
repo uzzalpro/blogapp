@@ -42,5 +42,5 @@ class _MyAppState extends State<MyApp> {
             trailing: Icon(Icons.arrow_forward),
           );
         });
-  ss}
+  }
 }
